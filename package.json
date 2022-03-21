@@ -1,0 +1,21 @@
+{
+    "name": "mat-theme-vscode",
+    "displayName": "mat-theme-vscode",
+    "description": "Tema para vscode para uso pessoal",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mat-theme-vscode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mat-theme-vscode-color-theme.json"
+            }
+        ]
+    }
+}
