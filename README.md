@@ -11,3 +11,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+###### Aprendendo a criar um tema para vscode com o criador do Dracula theme.
+
+* [Create theme vscode](https://www.youtube.com/watch?v=FeApSxfazVg&t=651s)
