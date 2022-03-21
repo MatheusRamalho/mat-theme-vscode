@@ -15,3 +15,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 ###### Aprendendo a criar um tema para vscode com o criador do Dracula theme.
 
 * [Create theme vscode](https://www.youtube.com/watch?v=FeApSxfazVg&t=651s)
+* [Examplo de códigos de várias linguagens](https://github.com/dracula/template)
